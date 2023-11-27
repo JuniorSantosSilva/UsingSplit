@@ -1,0 +1,14 @@
+F:\Projetos\UsandoSplit\UsandoSplit\bin\Debug\net8.0\UsandoSplit.exe
+F:\Projetos\UsandoSplit\UsandoSplit\bin\Debug\net8.0\UsandoSplit.deps.json
+F:\Projetos\UsandoSplit\UsandoSplit\bin\Debug\net8.0\UsandoSplit.runtimeconfig.json
+F:\Projetos\UsandoSplit\UsandoSplit\bin\Debug\net8.0\UsandoSplit.dll
+F:\Projetos\UsandoSplit\UsandoSplit\bin\Debug\net8.0\UsandoSplit.pdb
+F:\Projetos\UsandoSplit\UsandoSplit\obj\Debug\net8.0\UsandoSplit.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projetos\UsandoSplit\UsandoSplit\obj\Debug\net8.0\UsandoSplit.AssemblyInfoInputs.cache
+F:\Projetos\UsandoSplit\UsandoSplit\obj\Debug\net8.0\UsandoSplit.AssemblyInfo.cs
+F:\Projetos\UsandoSplit\UsandoSplit\obj\Debug\net8.0\UsandoSplit.csproj.CoreCompileInputs.cache
+F:\Projetos\UsandoSplit\UsandoSplit\obj\Debug\net8.0\UsandoSplit.dll
+F:\Projetos\UsandoSplit\UsandoSplit\obj\Debug\net8.0\refint\UsandoSplit.dll
+F:\Projetos\UsandoSplit\UsandoSplit\obj\Debug\net8.0\UsandoSplit.pdb
+F:\Projetos\UsandoSplit\UsandoSplit\obj\Debug\net8.0\UsandoSplit.genruntimeconfig.cache
+F:\Projetos\UsandoSplit\UsandoSplit\obj\Debug\net8.0\ref\UsandoSplit.dll
